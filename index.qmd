@@ -10,15 +10,18 @@ date: "2024-2025"
 - [Առաջին կարգի դիֆերենցիալ հավասարումներ](chapters/video_03.qmd)  
 
 # Տեսանյութեր
-[Պրոֆեսոր Արմեն Շիրիկյանի դասերի տեսագրությունները](https://www.youtube.com/watch?v=igzU6Cr3gGg&list=PLk4rM7XCAQ9ICC6BuNAWUld_-enQwl4JL)
-[Անիմացված տեսանյութեր 3blue1brown-ի կողմից](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=igzU6Cr3gGg&list=PLk4rM7XCAQ9ICC6BuNAWUld_-enQwl4JL">Պրոֆեսոր Արմեն Շիրիկյանի դասերի տեսագրությունները</a></li>
+    <li><a href="https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6">Անիմացված տեսանյութեր 3blue1brown-ի կողմից</a></li>
+</ul>
 
 
-# Դասագրքեր
-[[Arnold] Ordinary Differential Equations](https://drive.google.com/file/d/1wiV5WWeWsIOX_bm5LlL02p8LFsPDH7DM/view?usp=drive_link)
-[[Tenenbaum, Pollard] Ordinary Differential Equations](https://drive.google.com/file/d/16rrNZgasRW-Qe2zHe6JVAGXoj0u9RI0o/view?usp=drive_link)
-
-[[Ղազարյան և այլք] Սովորական դիֆերենցիալ հավասարումներ](https://drive.google.com/file/d/1n0zMCssCpZ2DahoJF4BzaBz-MYeE41Tm/view?usp=drive_link)
+# 📚 Դասագրքեր
+<ul>
+    <li><a href="https://drive.google.com/file/d/1wiV5WWeWsIOX_bm5LlL02p8LFsPDH7DM/view?usp=drive_link">[Arnold] Ordinary Differential Equations</a></li>
+    <li><a href="https://drive.google.com/file/d/16rrNZgasRW-Qe2zHe6JVAGXoj0u9RI0o/view?usp=drive_link">[Tenenbaum, Pollard] Ordinary Differential Equations</a></li>
+    <li><a href="https://drive.google.com/file/d/1n0zMCssCpZ2DahoJF4BzaBz-MYeE41Tm/view?usp=drive_link">[Ղազարյան և այլք] Սովորական դիֆերենցիալ հավասարումներ</a></li>
+</ul>
 
 # Խնդրագրքեր
 [[Ղազարյան և այլք] Սովորական դիֆերենցիալ հավասարումների խնդրագիրք](https://drive.google.com/file/d/13EpSH5JMV8YD6u5uRbVrAuXQ5jpu4PpV/view?usp=drive_link)
