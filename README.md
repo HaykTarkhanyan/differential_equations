@@ -1,1 +1,1 @@
-# differential_equations
+# latex_tutorial

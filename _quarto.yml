@@ -1,0 +1,36 @@
+project:
+  # Use "book" instead of "website" to get a left sidebar of chapters
+  type: book
+  output-dir: docs
+
+book:
+  # Global title (appears at the top of the sidebar)
+  title: "Սովորական դիֆերենցիալ հավասարումներ"
+  author: "Արման Բայրամյան"
+  repo-url: https://github.com/HaykTarkhanyan/differential_equations
+  repo-actions: [edit]
+  # downloads: [pdf, epub]
+  
+  # Define chapters (top-level pages) and sub-chapters
+  chapters:
+    - index.qmd
+    - part: "Թեմաներ"
+      chapters:
+        - chapters/video_01.qmd
+        - chapters/video_02.qmd
+        - chapters/video_03.qmd
+format:
+  html:
+    # Pick a theme you like, e.g., "cosmo", "flatly", "minty", etc.
+    theme:
+      light: cosmo   # light mode theme
+      dark: darkly   # dark mode theme
+    dark-mode-toggle: true
+    dark-mode-toggle-position: right
+    # Show table of contents on the left
+    toc: true
+    toc-location: right
+
+    # Optional: Control sidebar depth or other options
+    number-sections: true
+    code-fold: true

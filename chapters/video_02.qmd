@@ -1,0 +1,34 @@
+---
+title: "Ուղղ. դաշտ։ Կոշիի խնդիր, լուծման գոյություն և միակություն"
+---
+
+## Թեմաները
+<ul>
+    <li>00:00 ՍԴՀ-ի ուղղությունների դաշտ և իզոկլիններ</li>
+    <li>05:12 Օրինակներ</li>
+    <li>25:47 Կոշիի խնդիր (սկզբնական արժեքով խնդիր)</li>
+    <li>34:20 Թեորեմ (Պեանո). լուծման գոյություն</li>
+    <li>42:18 Օրինակ. y'=3y^(2/3), y(0)=0</li>
+    <li>49:00 Թեորեմ (Պիկար). լուծման գոյություն և միակություն</li>
+    <li>53:58 Խնդիր. df/dy սահմանափակ ⇒ Լիպշից</li>
+    <li>55:54 Հետևանք. միակության մեկ այլ թեորեմ</li>
+</ul>
+
+## Տեսադասը
+::: {.video}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y7U8zkKFN5U" frameborder="0" allowfullscreen></iframe>
+:::
+
+## Նյութը (անկապ պդֆ ա - placeholder)
+```{=html}
+<object data="pdfs/example.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="pdfs/example.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+
+## Տնային
+․․․
+
+## Լրացուցիչ նյութեր

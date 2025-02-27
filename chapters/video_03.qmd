@@ -1,0 +1,40 @@
+---
+title: "Առաջին կարգի դիֆերենցիալ հավասարումներ"
+---
+
+## Թեմաները
+<ul>
+    <li>00:00 Անջատվող փոփոխականներով հավասարում</li>
+    <li>03:00 Լուծման սխեման</li>
+    <li>09:06 Օրինակ. y' - xy^2 = 2xy</li>
+    <li>17:37 Լուծումների գրաֆիկները (ինտեգրալ կորեր)</li>
+    <li>20:11 Օրինակ. y' = (1+cos x) / (1+3y^2)</li>
+    <li>23:03 Ընկնող մարմնի խնդրի լուծումը</li>
+    <li>30:13 Առաջին կարգի գծային հավասարում</li>
+    <li>34:52 Լուծման սխեման (համասեռ դեպք)</li>
+    <li>37:55 Լուծման սխեման (անհամասեռ դեպք)</li>
+    <li>47:01 Հավասարման ընդհանուր լուծումը</li>
+    <li>53:02 Օրինակ. y' + y/x = x^2</li>
+    <li>55:49 Հաստատունի վարիացիայի մեթոդ</li>
+    <li>59:37 Ռադիոածխածնային թվագրման խնդրի լուծումը</li>
+</ul>
+
+## Տեսադասը
+::: {.video}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jCqFuPHHVoI" frameborder="0" allowfullscreen></iframe>
+:::
+
+
+## Նյութը (անկապ պդֆ ա - placeholder)
+```{=html}
+<object data="pdfs/example.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="pdfs/example.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+
+## Տնային
+․․․
+
+## Լրացուցիչ նյութեր
