@@ -11,9 +11,9 @@ date: "2024-2025"
 
 # Տեսանյութեր
 <ul>
-    <li><a href="https://www.youtube.com/watch?v=igzU6Cr3gGg&list=PLk4rM7XCAQ9ICC6BuNAWUld_-enQwl4JL">Պրոֆեսոր Արմեն Շիրիկյանի դասերի տեսագրությունները</a></li>
+    <li><a href="https://www.youtube.com/watch?v=igzU6Cr3gGg&list=s-enQwl4JL">Պրոֆեսոր Արմեն Շիրիկյանի դասերի տեսագրությունները</a></li>
     <li><a href="https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6">Անիմացված տեսանյութեր 3blue1brown-ի կողմից</a></li>
-</ul>
+</ul>s
 
 
 # 📚 Դասագրքեր
@@ -29,3 +29,6 @@ date: "2024-2025"
 
 # Հաջորդ քայլերը
 Կարող եք դիտել մաթեմատիկական ֆիզիկայի հավասարումներից պրոֆեսոր Խաչատուր Խաչատրյանի տեսադասերի շարքը [այստեղ](https://www.youtube.com/playlist?list=PLz3NrXxHz_CBpHt8Q_OGiDkrEj5Zkvfvs)։
+
+<a href="https://info.flagcounter.com/iHIi"><img src="https://s01.flagcounter.com/count2/iHIi/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
